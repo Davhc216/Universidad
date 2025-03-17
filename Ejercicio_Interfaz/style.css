@@ -28,7 +28,6 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    flex-wrap: wrap;
 }
 
 #b{ 
@@ -38,7 +37,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 #c{
@@ -48,4 +48,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
 }
