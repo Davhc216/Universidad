@@ -1,0 +1,30 @@
+.contenedor{
+    width: 100%;
+    max-width: 1200px;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#a{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    
+}
+
+#b{ 
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    
+}
+
+#c{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    
+}
